@@ -1,7 +1,6 @@
 ### Hi there 👋
 
-This repo contains PWK contents for Zroc CyberSec Hub (Its open to the Public).
-Also, it would contain some of Zumaroc Red Team (ZRT's) industry reports.
+This repo contains PWK contents for Zroc CyberSec Hub (It's open to the Public).
 
 PWK One-Liners: Our Collection of the Best One-Liners (Curated content using PWK Guide v1.1.6.)
 
