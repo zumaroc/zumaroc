@@ -4,22 +4,20 @@ This repo contains PWK contents for Zroc CyberSec Hub (It's open to the Public).
 
 PWK One-Liners: Our Collection of the Best One-Liners (Curated content using PWK Guide v1.1.6.)
 
-2. - The Essential Tools
-3. - Passive Information Gathering
-4. - Active Information Gathering
-5.1 - Vulnerability Scanning with Nmap
-6 Buffer Overflows ESP: (Extended Stack Pointer) vs EIP ( Extended Instruction Pointer )
-7. - Windows Buffer Overflows Exploitation
-8. - Linux Buffer Overflow Exploitation
-9 - Public Exploits - "Never run an exploit without reviewing its sourcecode/inner workings."
-10. - File Transfers
-11. - Privilege Escalation - “Think Like a Network
-Administrator”
-12. - Client-Side Attacks
-13. - Web Application Attacks
-14. - Password Attacks
-15. - Port Redirection and Tunneling
-16. - The Metasploit Framework
-17. - Bypassing Antivirus Software
-
+1.	The Essential Tools
+2.	Passive Information Gathering
+3.	Active Information Gathering
+4.	Vulnerability Scanning with Nmap
+5.	Buffer Overflows ESP: (Extended Stack Pointer) vs EIP ( Extended Instruction Pointer )
+6.	Windows Buffer Overflows Exploitation
+7.	Linux Buffer Overflow Exploitation
+8.	Public Exploits - "Never run an exploit without reviewing its source code/inner workings."
+9.	File Transfers
+10.	Privilege Escalation - “Think Like a Network Administrator.”
+11.	Client-Side Attacks
+12.	Web Application Attacks
+13.	Password Attacks
+14.	Port Redirection and Tunneling
+15.	The Metasploit Framework
+16.	Bypassing Antivirus Software
  
